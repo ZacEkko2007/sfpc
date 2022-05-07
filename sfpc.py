@@ -18,6 +18,3 @@ for j in secondDayList:
         notUsed.remove(j)
 
 print(len(notUsed), len(used))
-
-아니 = "aa"
-print(아니)
